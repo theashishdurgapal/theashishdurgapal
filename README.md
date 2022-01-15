@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding,blogging,editing and writing
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on projects on web dev
-- 📫 How to reach me? > INSTAGRAM - @theashishdurgapal
+- 📫 How to reach me? > TWITTER - @AshishDurgapal INSTAGRAM - @theashishdurgapal
 
 <!---
 theashishdurgapal/theashishdurgapal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
